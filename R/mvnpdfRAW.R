@@ -1,4 +1,4 @@
-#' Title
+#' Compute multivariate Gaussian density for multiple points
 #'
 #' @param x a matrix, with n columns (the observations) and p rows
 #' @param mean  a vector of means
