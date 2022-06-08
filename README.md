@@ -4,6 +4,8 @@
 # mypkgr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/KatelineLeBourdonnec/mypkgr/workflows/R-CMD-check/badge.svg)](https://github.com/KatelineLeBourdonnec/mypkgr/actions)
 <!-- badges: end -->
 
 The goal of mypkgr is to …
