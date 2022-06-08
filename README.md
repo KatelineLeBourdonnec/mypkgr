@@ -18,7 +18,7 @@ You can install the development version of mypkgr from
 devtools::install_github("KatelineLeBourdonnec/mypkgr")
 ```
 
-## Example
+## Example 2
 
 This is a basic example which shows you how to solve a common problem:
 
