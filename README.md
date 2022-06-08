@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/KatelineLeBourdonnec/mypkgr/workflows/R-CMD-check/badge.svg)](https://github.com/KatelineLeBourdonnec/mypkgr/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/KatelineLeBourdonnec/mypkgr/branch/master/graph/badge.svg)](https://app.codecov.io/gh/KatelineLeBourdonnec/mypkgr?branch=master)
 <!-- badges: end -->
 
 The goal of mypkgr is to …
