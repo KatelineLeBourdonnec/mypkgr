@@ -2,7 +2,7 @@
 % Please edit documentation in R/mvnpdfRAW.R
 \name{mvnpdf}
 \alias{mvnpdf}
-\title{Title}
+\title{Compute multivariate Gaussian density for multiple points}
 \usage{
 mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 }
@@ -19,5 +19,5 @@ mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 a list containing the matrix x, and a vector of length n of the multivariate normal distribution density values at those points
 }
 \description{
-Title
+Compute multivariate Gaussian density for multiple points
 }
