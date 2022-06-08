@@ -11,6 +11,8 @@
 #'@importFrom mvtnorm dmvnorm
 #'
 #' @examples
+#'
+#' ma fonction :
 mvnpdf <- function(x, mean =  rep(0, nrow(x)),
                    varcovM = diag(nrow(x)), Log = TRUE) {
   n <- ncol(x)
@@ -31,5 +33,6 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
   }
 
   res <- list(x = x, y = y)
+  class(res) <- "mvnpdf"
   return(res)
 }
